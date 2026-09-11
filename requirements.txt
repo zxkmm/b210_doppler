@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.6
+# uhd is only needed for scripts/radar.py --usrp, and is normally installed
+# system-wide alongside libuhd rather than from PyPI (e.g. pacman -S libuhd,
+# apt install python3-uhd). Everything else, including the self-test and the
+# simulator, runs without it.
