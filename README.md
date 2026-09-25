@@ -5,10 +5,7 @@ A two-tone CW Doppler radar for the USRP B210 (and clones such as the LibreSDR B
 > Demo project, co-authored with AI.
 
 ## Demo
-
-<!-- VIDEO PLACEHOLDER: drag and drop the demo video here on GitHub, or replace with a link -->
-
-https://github.com/user-attachments/assets/REPLACE_ME
+https://github.com/user-attachments/assets/a33e9424-ee44-461b-a638-d102b81f3aca
 
 ## How it works
 
